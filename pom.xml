@@ -33,11 +33,6 @@
       <version>1.3.3.RELEASE</version>
     </dependency>
   </dependencies>
-  <parent>
-      <groupId>org.springframewokr.boot</groupId>
-      <artifactId>spring-boot-starter-parent</artifactId>
-      <version>1.3.3.RELEASE</version>
-    </parent>
    <build>
     <plugins>
       <plugin>
